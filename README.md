@@ -7,10 +7,11 @@ pip install tensorflow
 pip install numpy
 pip install matplotlib
 ```
-### Model Architecture used
+### Model used
+The Model used for this project is MobileNet with pre-trained weights (imagenet) and fine tuned this Network to obtain an accuracy of 66%. Image Augmentations are applied to obtain a better result for classification. The details regarding model training can be seen in modeltraining python notebook in the repository. 
 
 ### How to use it
-- First Download the models weights (.h5) and model architecture (.json) in the repositry.
+- First Download the models weights (.h5) and model architecture (.json) in the repository.
 - Change the path to (.h5) file and (.json) file in your computer
 - Download the ipynb notebook (face expression)
 
