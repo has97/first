@@ -1,1 +1,2 @@
-This a model used to classify the expression of the face using transfer learning and haarcascade.This model achieves a validation accuracy of 65%.
+### Introduction
+- This model used to classify the facial expression of a person. The expressions that is detected include happiness,sad,angry,surprise.
