@@ -4,4 +4,9 @@
 ```
 pip install opencv
 pip install tensorflow
+pip install numpy
+pip install matplotlib
 ```
+### How to use it
+- First Download the models weights (.h5) and model architecture (.json) in the repositry.
+
